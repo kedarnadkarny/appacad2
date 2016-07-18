@@ -6,8 +6,8 @@ session_start();*/
 
 /************* Instagram API keys *************/
 
-define('clientID', 'b4ee6ce894264571a3bcf507ad06c44b');
-define('clientSecret', 'c4b782eefd49496f998e7f11350ba38d');
+define('clientID', 'YOUR_INSTAGRAM-CLIENT_ID');
+define('clientSecret', 'YOUR_INSTAGRAM_SECRET_KEY');
 define('redirectURI', 'http://localhost/appacad2/index.php');
 define('imageDirectory','pics/');
 
