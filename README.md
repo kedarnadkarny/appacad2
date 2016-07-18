@@ -1,5 +1,6 @@
 # appacad2
 Demo for Instagram API
+INSTRUCTION FOR INSTALLATION-
 
 1. Got to Instagram developer account and register your app
 2. You will be provided with clientID (Keep it a secret)
